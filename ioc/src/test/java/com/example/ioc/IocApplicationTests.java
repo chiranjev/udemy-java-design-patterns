@@ -1,4 +1,4 @@
-package com.example.ioc;
+package ioc.src.test.java.com.example.ioc;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
